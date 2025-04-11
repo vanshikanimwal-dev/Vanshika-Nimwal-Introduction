@@ -33,26 +33,6 @@
 
 ---
 
-### 🔥 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=vanshikanimwal05&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=vanshikanimwal05&theme=radical" width="48%"/>
-  <br />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vanshikanimwal05&layout=compact&theme=radical" width="48%"/>
-</div>
-
----
-
-### 📊 Most Used Languages
-
-- **Java:** 75% 💥  
-- **Python:** 10% 🐍  
-- **C#:** 10% 🎮  
-- **Others:** 5% ⚡
-
----
-
 ### 🧠 LeetCode Stats
 
 <div align="center">
@@ -66,6 +46,15 @@
 - ✅ **Total Solved:** 84 / 3511
 
 > 📊 Acceptance Rate: 93.3% — 🏆 Ranked better than **72.9%** of users!
+
+---
+
+### 📊 Most Used Languages
+
+- **Java:** 75% 💥  
+- **Python:** 10% 🐍  
+- **C#:** 10% 🎮  
+- **Others:** 5% ⚡
 
 ---
 
